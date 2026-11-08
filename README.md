@@ -27,13 +27,13 @@
 Клонируйте репозиторий:
 
 ```bash
-git clone https://github.com/USERNAME/REPOSITORY.git
+git clone https://github.com/MtD85/covariance_ar/blob/main/README.md
 ```
 
 Перейдите в директорию проекта:
 
 ```bash
-cd REPOSITORY
+cd covariance_ar
 ```
 
 Установите необходимые библиотеки:
